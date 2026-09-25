@@ -17,7 +17,7 @@
 
 ### 02. Low Level Design (LLD)
 
-<!-- #### 02.01. Git Branching & PR Strategies LLD
+#### 02.01. Git Branching & PR Strategies LLD
 ```mermaid
   sequenceDiagram
     actor Developer
@@ -36,4 +36,4 @@
     stage -->> prod : merge
     prod -->> develop : merge
     develop -->> Developer : pull
-``` -->
+```
